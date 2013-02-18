@@ -22,6 +22,9 @@ Scripts are limited to open piping systems (Loops/Subloops) of 30 pipes - 15 in 
 Note that for both, serial and parallel pipes, subloops minimum 1 pipe is required. If you do not need them, just input A and B as '0' (zero).
 <h5>Units</h5>
 Scripts are calling for Flow expressed in cubic meters per hour [cum/h] and Headloss in meters [m]. Any other, consistent unit system will do. 
+<h5>Edit Feb-2013</h5>
+Added numerical solution, file "pipeloopnum.m" and output example files - png and dxf.</p>
+Note that work is not finished and that scripts can return unexpected, even wrong, results.
 <h5>Disclaimer</h5>
 There is no any kind of warranty. You are using all scripts posted here on your own risk. Those will not break your computer or format your disk, but may break your engineering reputation. </p>
 If that happens do not call me. </p>

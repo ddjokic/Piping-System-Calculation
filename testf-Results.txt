@@ -1,0 +1,20 @@
+Loop ID: testf
+Parallel pipes
+HP(1)=0.000200*Q.**2+-5.000000
+HP(2)=0.000250*Q.**2+10.000000
+Serial pipes
+HS(1)=0.000300*Q.**2+3.000000
+HS(2)=0.000400*Q.**2+7.000000
+Eq. Pump:  H=-0.000200*Q.**2+200.000000
+Resulting Curves
+Res. Serial curve:  HS=0.000700*Q.**2+10.000000
+Res. Parallel curve:  HS=-0.000005*Q.**2+-6.162183
+System Curve:  H=HS=0.000695*Q.**2+3.837817
+
+System Working Point: 468.149401 cum/h, 156.167218 m
+Parallel Pipes - Working Point:
+Working Point - Parallel pipe 1: 0.000000 cum/h, -7.247518 m
+Working Point - Parallel pipe 2: 0.000000 cum/h, -7.247518 m
+Serial Pipes - Working Point:
+Working Point - Serial pipe 1: 468.149401 cum/h, 68.749159 m
+Working Point - Serial pipe 2: 468.149401 cum/h, 94.665545 m
