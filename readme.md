@@ -31,5 +31,10 @@ If that happens do not call me. </p>
 <h5>Licence</h5>
 As script are coming without any kind of Warranty, feel free to modify them as it fit your needs. 
 
+<p><u>Edit Mar-2013</u>: folder (sub-repo) zXLS added with modified script, able to read comma delimited files. Template file in MS Excel format added.</p>
+Parameters "A" and "B" for unused pipes <u>must be set as zero.</u></p>
+See "Note" worksheet of template file.</p>
+Function "flow.m" added here for consistency.</p>
+
 © D. Djokic, 2013
 
